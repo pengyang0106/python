@@ -11,3 +11,19 @@ With the three double-quotes.
 We'll be able to type as much as we like. 
 Even 4 lines if we want, or 5, or 6. 
 """)
+
+
+tabby_cat_1 = 'I am 6\'2" tall.'
+tabby_cat_2 = "I am 6'2\" tall."
+tabby_cat_3 = "I \"understand\" joe."
+tabby_cat_4 = """
+i'll do a list:
+\t* Car Food 
+\t* Fishes
+\t* Catnip\n\t* Grass
+
+"""
+print (tabby_cat_1)
+print (tabby_cat_2)
+print (tabby_cat_3)
+print (tabby_cat_4)
