@@ -1,0 +1,15 @@
+def print_cuowu():
+  print('那等在季节里的容颜如莲花的开落')
+  print('春风不来，三月的柳絮不飞')
+  print('你的心如小小的寂寞的城')
+  print('恰若青石的街道向晚')
+  print('跫音不响，三月的春帷不揭')
+  print('你的心是小小的窗扉紧掩')
+  print('我达达的马蹄是美丽的错误')
+  print('我不是归人，是个过客……')
+
+print_cuowu()
+print_cuowu()
+print_cuowu()
+print_cuowu()
+print_cuowu()
